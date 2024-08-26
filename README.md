@@ -10,5 +10,5 @@ Run in your console of choice:
 ```
 ./game-of-life
 ```
-Type "!" to end input phase. 
-CTRL + C to stop process whenever.
+Type <kbd>!</kbd> to end input phase. 
+<kbd>CTRL</kbd> + <kbd>C</kbd> to stop process whenever.
